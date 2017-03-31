@@ -1,0 +1,49 @@
+# that 可(或不可)省略的情況:
+
+## 位於句首時不可省略
+
+> That love can conquer everything is not necessarily true.
+= It is not necessarily true (that) love can conquer everything. 
+愛可以征服任何事情不是必然正確的。
+
+## 當作「受詞」時通常可省略
+
+> He is afraid (that) his application for the job will be turned down.
+他害怕他的工作申請會被拒絕。
+
+## 「常見」reporting verbs 後可省略 
+
+what is reporting verb ? 
+
+ans : 表達被引述或改述的對話
+
+- 可省略的reporting verb : say, believe, respond, ask, ...
+- 不可省略的reporting verb : reply, order, demand, email 
+
+## 形容詞後可省略
+
+> I’m glad (that) you’re all right.
+我很高興你沒事。
+
+## 名詞後不可省
+
+> I did not believe his claim that he was ill.
+我不相信他說他生病了。
+
+
+##  句中有兩個 that 子句作受詞，第二個 that 不可省
+
+> We all know (that) he is crazy about you and that he wants to marry you.
+我們都知道他對妳著迷而且想要跟妳結婚。
+
+## it 當虛受詞的句型中，that 不可省略：
+
+> Mike considered it a pity that he couldn’t come to my graduation ceremony.
+Mike 覺得他不能來我的畢業典禮很可惜。
+
+## 作「同位語」用
+
+有些名詞的後面可以接 that 引導的同位語子句，補充或敘述前面的名詞：
+
+> We came to the decision that we must act at once.
+我們做出決定：我們必須立即行動。

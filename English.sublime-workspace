@@ -84,9 +84,25 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "",
+		"last_filter": "package control",
 		"selected_items":
 		[
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
 			[
 				"disable ",
 				"Package Control: Disable Package"
@@ -212,7 +228,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 521.0
+		"width": 539.0
 	},
 	"console":
 	{
@@ -239,10 +255,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/sheng/Documents/English"
 	],
 	"file_history":
 	[
+		"/Users/sheng/Documents/English/that用法.mdown",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python2.7.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
@@ -364,13 +385,7 @@
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/NCCU_MLNote.sublime-project",
 		"/Users/sheng/Documents/Learning/py/20151007_ML_note",
 		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co",
-		"/Users/sheng/Documents/Learning/py/learning1.py",
-		"/Users/sheng/Documents/Learning/SQL/basic.sql",
-		"/Users/sheng/Documents/Learning/SQL/FunctionDefined_INSTR.sql",
-		"/Users/sheng/Documents/Learning/SQL/untitled.sql",
-		"/Users/sheng/Documents/Learning/SQL/untitled",
-		"/Users/sheng/Documents/Learning/py/basic.sql",
-		"/Users/sheng/Documents/Learning/py/learning2.py"
+		"/Users/sheng/Documents/Learning/py/learning1.py"
 	],
 	"find":
 	{
